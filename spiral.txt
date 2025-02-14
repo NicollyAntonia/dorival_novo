@@ -1,0 +1,11 @@
+Objectives Defined: In first phase of the spiral model we clarify what the project aims to achieve, including functional and non-functional requirements.- paulo
+
+
+Risk Analysis: In the risk analysis phase, the risks associated with the project are identified and evaluated.- yasmim
+
+
+Engineering: In the engineering phase, the software is developed based on the requirements gathered in the previous iteration.-tamires
+
+
+Evaluation: In the evaluation phase, the software is evaluated to determine if it meets the customer’s requirements and if it is of high quality.-nicolly
+Planning: The next iteration of the spiral begins with a new planning phase, based on the results of the evaluation.-nicolly
